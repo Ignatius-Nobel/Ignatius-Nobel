@@ -1,3 +1,3 @@
-Hey!👋👋👋 Folks I am Ignatius Nobel. <br>
-I am a creative CS Graduate 👨‍💻 <br>
-Having Fun creating new project 🚀!!!
+Hey! Folks 👋👋👋  <br> I am Ignatius Nobel <br>
+I am a creative Computer Science Graduate 👨‍💻 <br>
+Checkout my Repo for some outstanding project stuffs 🚀!!!
